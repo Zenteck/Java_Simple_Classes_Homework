@@ -1,6 +1,6 @@
 public class WaterBottle {
 
-    public int volume = 100;
+    public int volume;
 
     public WaterBottle(int volume) {
         this.volume = 100;
